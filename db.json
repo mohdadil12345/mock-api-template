@@ -1,64 +1,73 @@
 {
-  "users": [
+  "freelancers": [
     {
-      "id": 1,
-      "name": "Gertrudis Tatterton",
-      "age": 18,
-      "email": "gtatterton0@ehow.com"
+      "name": "osoma",
+      "email": "eve.holt@reqres.in",
+      "password": "1234",
+      "profile": "https://play-lh.googleusercontent.com/C9CAt9tZr8SSi4zKCxhQc9v4I6AOTqRmnLchsu1wVDQL0gsQ3fmbCVgQmOVM1zPru8UH=w240-h480-rw",
+      "hours": "15",
+      "profess_select": "Student",
+      "skills": [
+        "Photoshop",
+        "Illustrator"
+      ],
+      "hire": false,
+      "id": 1
     },
     {
-      "id": 2,
-      "name": "Gail Newbatt",
-      "age": 53,
-      "email": "gnewbatt1@un.org"
+      "name": "yusuf",
+      "email": "bcraddy0@cnn.com",
+      "password": "123",
+      "profile": "https://play-lh.googleusercontent.com/C9CAt9tZr8SSi4zKCxhQc9v4I6AOTqRmnLchsu1wVDQL0gsQ3fmbCVgQmOVM1zPru8UH=w240-h480-rw",
+      "hours": "8",
+      "profess_select": "Web Developer",
+      "skills": [
+        "CSS"
+      ],
+      "hire": false,
+      "id": 2
     },
     {
-      "id": 3,
-      "name": "Walliw Wilstead",
-      "age": 49,
-      "email": "wwilstead2@tripadvisor.com"
+      "name": "shirt",
+      "email": "md123@gmail.com",
+      "password": "cityslicka",
+      "profile": "https://play-lh.googleusercontent.com/C9CAt9tZr8SSi4zKCxhQc9v4I6AOTqRmnLchsu1wVDQL0gsQ3fmbCVgQmOVM1zPru8UH=w240-h480-rw",
+      "hours": "8",
+      "profess_select": "Web Developer",
+      "skills": [
+        "JavaScript"
+      ],
+      "hire": true,
+      "id": 3
     },
     {
-      "id": 4,
-      "name": "Abran Proback",
-      "age": 29,
-      "email": "aproback3@theglobeandmail.com"
+      "name": "america",
+      "email": "bcraddy0@cnn.com",
+      "password": "1234",
+      "profile": "https://play-lh.googleusercontent.com/C9CAt9tZr8SSi4zKCxhQc9v4I6AOTqRmnLchsu1wVDQL0gsQ3fmbCVgQmOVM1zPru8UH=w240-h480-rw",
+      "hours": "14",
+      "profess_select": "Graphic Designer",
+      "skills": [
+        "CSS",
+        "Photoshop",
+        "Illustrator"
+      ],
+      "hire": false,
+      "id": 4
     },
     {
-      "id": 5,
-      "name": "Roda Chappelow",
-      "age": 31,
-      "email": "rchappelow4@oaic.gov.au"
-    },
-    {
-      "id": 6,
-      "name": "Karney Wylie",
-      "age": 22,
-      "email": "kwylie5@miitbeian.gov.cn"
-    },
-    {
-      "id": 7,
-      "name": "Cammi Pimbley",
-      "age": 63,
-      "email": "cpimbley6@nyu.edu"
-    },
-    {
-      "id": 8,
-      "name": "Gavra Manning",
-      "age": 43,
-      "email": "gmanning7@lycos.com"
-    },
-    {
-      "id": 9,
-      "name": "Zachary Seward",
-      "age": 45,
-      "email": "zseward8@oracle.com"
-    },
-    {
-      "id": 10,
-      "name": "Chucho Norssister",
-      "age": 20,
-      "email": "cnorssister9@mayoclinic.com"
+      "name": "virat",
+      "email": "bcraddy0@cnn.com",
+      "password": "1234",
+      "profile": "https://play-lh.googleusercontent.com/C9CAt9tZr8SSi4zKCxhQc9v4I6AOTqRmnLchsu1wVDQL0gsQ3fmbCVgQmOVM1zPru8UH=w240-h480-rw",
+      "hours": "20",
+      "profess_select": "Graphic Designer",
+      "skills": [
+        "CSS",
+        "Photoshop"
+      ],
+      "hire": false,
+      "id": 5
     }
   ]
 
