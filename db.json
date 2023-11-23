@@ -60,5 +60,50 @@
       "age": 20,
       "email": "cnorssister9@mayoclinic.com"
     }
+  ],  "dog": [
+    {
+      "name": "osoma",
+      "age": "4",
+      "gender": "male",
+      "place": "aligahr",
+      "id": 2
+    },
+    {
+      "name": "mono",
+      "age": "4",
+      "gender": "male",
+      "place": "kolkata",
+      "id": 3
+    },
+    {
+      "name": "saiful",
+      "age": "8",
+      "gender": "female",
+      "place": "bhopal",
+      "id": 4
+    },
+    {
+      "name": "kutta",
+      "age": "9",
+      "gender": "male",
+      "place": "paharpur",
+      "id": 5
+    
+    },
+    {
+      "name": "kutta-2",
+      "age": "18",
+      "gender": "male",
+      "place": "paharpur",
+      "id": 6
+    
+    },
+    {
+      "name": "kutta-3",
+      "age": "14",
+      "gender": "female",
+      "place": "ghordaur",
+      "id": 7
+    }
   ]
 }
