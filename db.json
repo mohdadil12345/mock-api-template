@@ -389,5 +389,103 @@
         }
       ]
     }
-  ]
+  ],
+    "users": [
+      {
+        "username": "admin",
+        "avatar": "fdg",
+        "email": "md3530546@gmail.com",
+        "password": "1234",
+        "id": 1
+      },
+      {
+        "username": "eve",
+        "avatar": "fdg",
+        "email": "eve.holt@reqres.in",
+        "password": "1234",
+        "id": 2
+      },
+      {
+        "username": "adil",
+        "avatar": "https://play-lh.googleusercontent.com/C9CAt9tZr8SSi4zKCxhQc9v4I6AOTqRmnLchsu1wVDQL0gsQ3fmbCVgQmOVM1zPru8UH=w240-h480-rw",
+        "email": "md3530546@gmail.com",
+        "password": "1234",
+        "id": 3
+      },
+      {
+        "username": "mono",
+        "avatar": "https://play-lh.googleusercontent.com/C9CAt9tZr8SSi4zKCxhQc9v4I6AOTqRmnLchsu1wVDQL0gsQ3fmbCVgQmOVM1zPru8UH=w240-h480-rw",
+        "email": "eve.holt@reqres.in",
+        "password": "1234",
+        "id": 4
+      },
+      {
+        "username": "osama",
+        "avatar": "https://play-lh.googleusercontent.com/C9CAt9tZr8SSi4zKCxhQc9v4I6AOTqRmnLchsu1wVDQL0gsQ3fmbCVgQmOVM1zPru8UH=w240-h480-rw",
+        "email": "bcraddy0@cnn.com",
+        "password": "1234",
+        "id": 5
+      }
+    ],
+    "forum": [
+      {
+        "username": "jssvvs",
+        "title": "kkkkkk",
+        "description": "fdgdghgbjfdkhkghgjkfhjjfkhnhjkfjkhkfhkfhkjfkhjkh",
+        "language": "Java",
+        "posteddate": "2023-11-07",
+        "id": 4
+      },
+      {
+        "username": "osama",
+        "title": "kkkkkk",
+        "description": "fdgdghgbjfdkhkghgjkfhjjfkhnhjkfjkhkfhkfhkjfkhjkh",
+        "language": "JavaScript",
+        "posteddate": "2023-11-07",
+        "id": 5
+      },
+      {
+        "title": "javascript",
+        "description": "javscript defination",
+        "language": "JavaScript",
+        "posteddate": "2023-11-21",
+        "id": 6
+      },
+      {
+        "title": "java",
+        "description": "An exciting soccer match between two rival teams.",
+        "language": "Python",
+        "posteddate": "2023-11-09",
+        "id": 7
+      },
+      {
+        "title": "python",
+        "description": "An exciting soccer match between two rival teams.",
+        "language": "Python",
+        "posteddate": "2023-11-09",
+        "id": 8
+      },
+      {
+        "title": "python",
+        "description": "An exciting soccer match between two rival teams.",
+        "language": "Python",
+        "posteddate": "2023-11-09",
+        "id": 9
+      },
+      {
+        "title": "python",
+        "description": "An exciting soccer match between two rival teams.",
+        "language": "Python",
+        "posteddate": "2023-11-09",
+        "id": 10
+      },
+      {
+        "title": "python",
+        "description": "An exciting soccer match between two rival teams.",
+        "language": "Python",
+        "posteddate": "2023-11-09",
+        "id": 11
+      }
+    ]
+  
 }
